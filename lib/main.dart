@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   child: Text('+'),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.green,
-                    foregroundColor: Colors.black,
+                    foregroundColor: Colors.black87,
                   ),
                 ),
               ],
